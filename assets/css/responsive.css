@@ -1,0 +1,383 @@
+@media all and (max-width: 1199px){
+	/*========== Start page 12 ==========*/
+	.edp12tt_right {
+		padding: 35px 20px;
+	}
+	/*========== End page 12 ==========*/
+	/* Rakib Css area start  */
+	.deshboard_groupchat_main_left_area_top {
+		background: #FFFFFF;
+		box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+		border-radius: 10px;
+		padding: 25px 12px;
+		margin-bottom: 28px;
+	}
+	.deshboard_groupchat_main_area .col-lg-3 {
+		flex: 0 0 29%;
+		max-width: 29%;
+	}
+	.deshboard_groupchat_main_area .col-lg-9{
+		flex: 0 0 71%;
+		max-width: 71%;
+	}
+	.deshboard_groupchat_main_left_area_top_according .card .card-header .btn {
+		text-align: left;
+	}
+	.deshboard_groupchat_main_left_area_top_according .card .card-header .btn span {
+		top: 16px;
+	}
+	.row.row-gap {
+		row-gap: 25px;
+	}
+	/* Rakib Css area End  */
+}
+@media all and (max-width: 1024px){
+	.main-content {
+		padding-left: 0px;
+	}
+}
+@media all and (max-width: 991px){
+	.mu_evant_create_btn a {
+		padding: 8px 17px;
+		margin-right: 12px;
+		font-size: 13px;
+	}
+	.mu_footer_main {
+		flex-direction: column;
+	}
+	/*========== Start page 7 ==========*/
+	.ed7_banner {
+		padding: 240px 40px 30px 40px;
+	}
+	.event_tabs_page7_btn_mob {
+		padding: 20px 0px 20px 30px;
+	}
+	.event_details_7_Tabs {
+		flex-direction: column;
+	}
+	.event_details_7_Tabs_right {
+		margin-top: 30px;
+	}
+	.tabs_and_btn_main {
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 15px;
+	}
+	.my_wish_tabs_and_btn_main {
+		border-bottom: none;
+		padding-bottom: 0px;
+	}
+	/*========== End page 7 ==========*/
+
+	/*========== Start page 12 ==========*/
+	.event_details_page12_tap_top {
+		flex-direction: column;
+	}
+	/*========== End page 12 ==========*/
+
+	/*========== Start page 18 ==========*/
+	.my_wish_single_product {
+		flex: 0 0 31.5%;
+	}
+	/*========== End page 18 ==========*/
+	/* Rakib css area start  */
+	.deshboard_groupchat_main_area .col-lg-3 {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.deshboard_groupchat_main_area .col-lg-9 {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.deshboard_groupchat_main_left_area {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.deshboard_groupchat_main_left_area_top {
+		margin-bottom: 0px;
+		margin-top: 28px;
+	}
+	.deshboard_groupchat_main_left_area_bottom {
+		width: 100%;
+	}
+	
+	/* Rakib css area ENd  */
+}
+
+@media all and (max-width: 767px){
+	.mu_evant_create_btn a {
+		padding: 5px 15px;
+	}
+	/*========== Start page 7 ==========*/
+	.ed7_banner {
+		padding: 200px 30px 20px 30px;
+	}
+	.mun_h4 h4 {
+		font-size: 18px;
+	}
+	.event7_nav_styy.nav-pills .nav-item .nav-link {
+		padding: 25px 25px !important;
+	}
+	.event7_nav_styy.nav-pills .nav-item .nav-link {
+		font-size: 17px;
+	}
+	.ed7rs_single_item {
+		padding: 45.5px 0px;
+	}
+	.event_tabs_page7_btn_mob {
+		padding: 20px 0px 20px 20px;
+	}
+	/*========== End page 7 ==========*/
+
+	/*========== Start page 10 ==========*/
+	.ed10tr_top {
+		flex-direction: column;
+	}
+	/*========== End page 10 ==========*/
+
+	/*========== Start page 12 ==========*/
+	.edp12tt_left_content_btn {
+		flex-direction: column;
+	}
+	/*========== End page 12 ==========*/
+
+	/*========== Start page 13 ==========*/
+	.event_feeds_single_member {
+		padding: 25px 30px;
+	}
+	/*========== End page 13 ==========*/
+
+	/*========== Start page 18 ==========*/
+	.my_wish_single_product {
+		flex: 0 0 48%;
+	}
+	/*========== End page 18 ==========*/
+}
+
+@media all and (max-width: 575px){
+	.mu_evant_create_btn a span {
+		display: none;
+	}
+	.mu_evant_create_btn a {
+		padding: 8px 8px;
+	}
+	.mu_evant_create_btn a i{
+		margin-left: 0px !important;
+	}
+	/*========== Start page 7 ==========*/
+	.ed7_banner {
+		padding: 175px 30px 20px 30px;
+	}
+	.event7_nav_styy.nav-pills .nav-item .nav-link {
+		padding: 15px 12px !important;
+	}
+	.event7_nav_styy.nav-pills .nav-item .nav-link {
+		font-size: 15px;
+	}
+	.event_tabs_page7 .nav-pills .nav-link.active i {
+		font-size: 16px !important;
+		color: #008248;
+	}
+	.event_tabs_page7 .nav-pills .nav-link i{
+		font-size: 16px !important;
+	}
+	.ed7rs_single_item {
+		flex: 0 0 100%;
+	}
+	.event_tabs_page7_btn_mob {
+		padding: 15px 0px 15px 10px;
+	}
+	.even_btn_style a {
+		padding: 7px 13px;
+	}
+	/*========== End page 7 ==========*/
+
+	/*========== Start page 12 ==========*/
+	.edp12tt_left {
+		flex-direction: column;
+	}
+	.edp12tt_left_content {
+		margin-top: 15px;
+	}
+	/*========== End page 12 ==========*/
+
+	/*========== Start page 18 ==========*/
+	.my_wish_single_product {
+		flex: 0 0 100%;
+	}
+	/*========== End page 18 ==========*/
+	/* Rakib css area start  */
+	.deshboard_groupchat_main_message_area_you {
+		display: flex;
+		align-items: flex-start;
+		flex-direction: column;
+	}
+	.groupchat_main_chat_area {
+		padding: 20px 15px;
+	}
+	.deshboard_groupchat_main_message_area_me .deshboard_groupchat_main_message_area_img {
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 100%;
+		text-align: right;
+	}
+	.deshboard_groupchat_main_message_area_me {
+		flex-direction: column-reverse !important;
+	}
+	.deshboard_groupchat_main_messageOption_send_option form input {
+		width: 100%;
+		border-radius: 10px;
+		height: 46px;
+		padding: 5px 68px 5px 20px;
+		font-size: 14px;
+	}
+	.deshboard_groupchat_main_messageOption_send_option {
+		flex: 0 0 80%;
+	}
+	.deshboard_groupchat_main_messageOption_send_option form ul li span i {
+		font-size: 17px;
+	}
+	.deshboard_groupchat_main_message_area_live_chat {
+		display: flex !important;
+		flex-direction: inherit;
+		align-items: center;
+	}
+	.deshboard_groupchat_main_messageOption_img {
+		display: none;
+	}
+	.deshboard_groupchat_main_messageOption {
+		padding: 20px 11px;
+	}
+	.deshboard_groupchat_main_messageOption_send_option form ul {
+		right: 4px;
+	}
+	.deshboard_groupchat_main_messageOption_send_option form ul li span i {
+		padding: 3px 3px;
+		margin: 1px 3px;
+	}
+	.deshboard_groupchat_main_message_area_you_text {
+		padding: 20px 0;
+	}
+	/* Rakib css area End  */
+}
+
+@media all and (max-width: 450px){
+	.mu_notific_pos {
+		position: relative;
+		margin: 0px 15px;
+		color: #008248;
+	}
+	.mu_notific_pos::before {
+		width: 142%;
+		left: -7px;
+	}
+	.navbar {
+		padding: .5rem .5rem;
+	}
+	.footer_right ul {
+		justify-content: center;
+		margin-top: 10px;
+	}
+	.main-footer .footer-left {
+		text-align: center;
+	}
+	/*========== Start page 7 ==========*/
+	.ed7_banner {
+		padding: 160px 10px 15px 10px;
+	}
+	.mun_h4 h4 {
+		font-size: 17px;
+	}
+	.even_btn_style a {
+		padding: 5px 8px;
+	}
+	.ed7rs_single_item_icon i {
+		font-size: 20px;
+		width: 50px;
+		height: 50px;
+	}
+	.ed7rs_single_item_content p {
+		font-size: 16px;
+		line-height: 6px;
+	}
+	.ed7tl_invitision_header p {
+		margin-top: 15px;
+		margin-bottom: 3px;
+		font-size: 14px;
+	}
+	.ed7tl_invitision_copy {
+		padding: 5px 15px;
+	}
+	.ed7tl_invitision_copy a i {
+		font-size: 15px;
+	}
+	.ed7tl_invitision_copy p{
+		font-size: 11px;
+	}
+	.ed7tl_profile_img a img, .edp12tt_left_img img {
+		width: 55px;
+	}
+	.ed7tl_content {
+		padding: 20px 20px 40px 20px;
+	}
+	.ed7tl_header p {
+		padding: 13px 0px 13px 20px;
+		font-size: 15px;
+	}
+	.event_tabs_and_btn_content {
+		padding: 20px 20px 0px 20px;
+	}
+	.event7_nav_styy.nav-pills .nav-item .nav-link {
+		padding: 18px 9px !important;
+	}
+	.ed7tl_invitision_copy_em{
+		padding: 10px 20px;
+	}
+	.ed7tl_invitision_btn a{
+		padding: 10px 0px;
+	}
+	.event7_nav_styy {
+		flex-direction: column;
+	}
+	/*========== End page 7 ==========*/
+
+	/*========== Start page 10 ==========*/
+	.ed10tr_description_new_des{
+		flex-direction: column;
+	}
+	.ed10tr_top_left {
+		padding: 25px 15px;
+	}
+	.ed10tr_icon {
+		margin-right: 15px;
+	}
+	/*========== End page 10 ==========*/
+
+	/*========== Start page 12 ==========*/
+	.edp12tt_left {
+		padding: 20px 10px;
+	}
+	.edp12tt_right {
+		padding: 30px 11px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	/*========== End page 12 ==========*/
+
+	/*========== Start page 13 ==========*/
+	.event_feeds_single_member {
+		padding: 20px 20px;
+		border-bottom: 1px solid #EAEAEA;
+	}
+	/*========== End page 13 ==========*/
+
+	/*========== Start page 18 ==========*/
+	.my_wish {
+		padding: 0px 15px;
+		background: #FAFAFA;
+	}
+	.my_wish_header.mun_h4 {
+		padding-top: 20px;
+	}
+	/*========== End page 18 ==========*/
+}
